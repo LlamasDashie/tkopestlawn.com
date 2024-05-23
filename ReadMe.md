@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-   <title>Bold Text Example</title>
-</head>
 <body>
    <p>The following word uses a <b>bold</b> typeface.</p>
 </body>
-</html>
